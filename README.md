@@ -1,4 +1,5 @@
 # S-Update Serveur
+<img title="repo views" src="https://freshidea.com/jonah/app/simple-view-counter">
 
 Voici une version Fork de S-Update serveur avec une refonte graphique ainsi que le code interne
 
